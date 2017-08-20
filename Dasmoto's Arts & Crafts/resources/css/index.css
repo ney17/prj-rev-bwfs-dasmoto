@@ -1,0 +1,27 @@
+ h1 {font-family: helvetica;
+font-size: 80px;
+font-weight: bold;
+color: khaki;
+text-align: "center";
+text-indent: 13.5%;
+background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+h3{background-color: mediumspringgreen;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight:bold;
+  color: white;
+
+}
+h4{background-color: lightcoral;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight:bold;
+  color: white;
+}
+h5{background-color: skyblue;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight:bold;
+  color: white}
+b{color: blue;}
